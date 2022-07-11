@@ -1,6 +1,6 @@
 # Beamstrahlung Simulation
 
-Main features:__
--Simulates rigid Gaussian beams colliding at an angle in a two beams particle collider.
--Calculates geometric luminosity. 
--Calculates beamstrahlung radiation fields.
+Main features: <br />
+-Simulates rigid Gaussian beams colliding at an angle in a two beams particle collider. <br />
+-Calculates geometric luminosity. <br />
+-Calculates beamstrahlung radiation fields. <br />
